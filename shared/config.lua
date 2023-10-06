@@ -1,6 +1,6 @@
 Config = Config or {}
 
-Config.Fuel = "ps-fuel" -- "ps-fuel", "LegacyFuel"
+Config.Fuel = "LegacyFuel" -- "ps-fuel", "LegacyFuel"
 Config.ResourcePerms = 'admin'
 
 Config.Actions = {
